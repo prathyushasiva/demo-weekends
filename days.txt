@@ -3,4 +3,4 @@ monday
 tuesday
 wednesday
 thursday
-
+firday
