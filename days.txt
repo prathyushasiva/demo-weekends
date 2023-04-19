@@ -1,2 +1,3 @@
 welcome to the week days program
 monday
+tuesday
