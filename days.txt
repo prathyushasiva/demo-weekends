@@ -4,3 +4,4 @@ tuesday
 wednesday
 thursday
 firday
+saturday
